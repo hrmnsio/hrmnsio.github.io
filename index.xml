@@ -4,35 +4,21 @@
     <title>hrmns.org</title>
     <link>https://hrmnsio.github.io/</link>
     <description>Recent content on hrmns.org</description>
+    <image>
+      <url>https://hrmnsio.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hrmnsio.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Wed, 24 Nov 2021 22:51:50 +0100</lastBuildDate><atom:link href="https://hrmnsio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pythontutorial!</title>
+      <title>Python &lt;placeholder&gt;</title>
       <link>https://hrmnsio.github.io/posts/pythontutorial/</link>
       <pubDate>Wed, 24 Nov 2021 22:51:50 +0100</pubDate>
       
       <guid>https://hrmnsio.github.io/posts/pythontutorial/</guid>
-      <description></description>
+      <description>import scapy </description>
     </item>
     
-    <item>
-      <title>Mysecondpost</title>
-      <link>https://hrmnsio.github.io/posts/mysecondpost/</link>
-      <pubDate>Wed, 24 Nov 2021 22:50:49 +0100</pubDate>
-      
-      <guid>https://hrmnsio.github.io/posts/mysecondpost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Myfirstpost HELLO</title>
-      <link>https://hrmnsio.github.io/posts/myfirstpost/</link>
-      <pubDate>Wed, 24 Nov 2021 22:02:25 +0100</pubDate>
-      
-      <guid>https://hrmnsio.github.io/posts/myfirstpost/</guid>
-      <description>code snippet goes here </description>
-    </item>
     
   </channel>
 </rss>

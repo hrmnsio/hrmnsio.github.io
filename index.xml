@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hrmns.org</title>
-    <link>https://hrmnsio.github.io/</link>
+    <link>https://hrmns.org/</link>
     <description>Recent content on hrmns.org</description>
     <image>
-      <url>https://hrmnsio.github.io/</url>
-      <link>https://hrmnsio.github.io/</link>
+      <url>https://hrmns.org</url>
+      <link>https://hrmns.org</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 22:51:50 +0100</lastBuildDate><atom:link href="https://hrmnsio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 22:51:50 +0100</lastBuildDate><atom:link href="https://hrmns.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python &lt;placeholder&gt;</title>
-      <link>https://hrmnsio.github.io/posts/pythontutorial/</link>
+      <link>https://hrmns.org/posts/pythontutorial/</link>
       <pubDate>Wed, 24 Nov 2021 22:51:50 +0100</pubDate>
       
-      <guid>https://hrmnsio.github.io/posts/pythontutorial/</guid>
+      <guid>https://hrmns.org/posts/pythontutorial/</guid>
       <description>import scapy </description>
     </item>
     

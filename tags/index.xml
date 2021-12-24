@@ -8,16 +8,6 @@
       <url>https://hrmns.org</url>
       <link>https://hrmns.org</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 22:51:50 +0100</lastBuildDate><atom:link href="https://hrmns.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>python</title>
-      <link>https://hrmns.org/tags/python/</link>
-      <pubDate>Wed, 24 Nov 2021 22:51:50 +0100</pubDate>
-      
-      <guid>https://hrmns.org/tags/python/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hrmns.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

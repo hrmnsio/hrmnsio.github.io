@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hrmns.org/posts/firstpost/</loc>
+    <lastmod>2021-12-24T14:07:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hrmns.org/tags/blog/</loc>
+    <lastmod>2021-12-24T14:07:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hrmns.org/</loc>
     <lastmod>2021-12-24T14:07:21+01:00</lastmod>
   </url>
@@ -13,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://hrmns.org/posts/firstpost/</loc>
+    <loc>https://hrmns.org/tags/</loc>
     <lastmod>2021-12-24T14:07:21+01:00</lastmod>
   </url>
   
@@ -23,10 +33,6 @@
   
   <url>
     <loc>https://hrmns.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hrmns.org/tags/</loc>
   </url>
   
 </urlset>

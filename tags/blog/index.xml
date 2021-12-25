@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on hrmns.org</title>
-    <link>https://hrmns.org/posts/</link>
-    <description>Recent content in Posts on hrmns.org</description>
+    <title>blog on hrmns.org</title>
+    <link>https://hrmns.org/tags/blog/</link>
+    <description>Recent content in blog on hrmns.org</description>
     <image>
       <url>https://hrmns.org</url>
       <link>https://hrmns.org</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Dec 2021 14:07:21 +0100</lastBuildDate><atom:link href="https://hrmns.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Dec 2021 14:07:21 +0100</lastBuildDate><atom:link href="https://hrmns.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning of the journey</title>
       <link>https://hrmns.org/posts/firstpost/</link>
